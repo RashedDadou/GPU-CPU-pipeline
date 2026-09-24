@@ -29,4 +29,7 @@ Instead of loading all model weights and data batches into GPU memory at once, y
 
 Unifying the batches transforms the system from a mere "buffer" into a dynamic, high-performance data streaming engine! 
 
+![Image](https://github.com/user-attachments/assets/Gemini_Generated_Image_a0r0xra0r0xra0r0.jpeg)
+![Image](https://github.com/user-attachments/assets/Gemini_Generated_Image_4ufcnh4ufcnh4ufc.jpeg)
+
 ---
