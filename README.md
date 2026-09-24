@@ -5,7 +5,7 @@ Unifying the two streams—namely, the computational processing/weight update st
 
 ---
 
-## For Exmple : 
+## For Example : 
 
 In traditional training systems, a major issue is that the GPU operates using a blocking/sequential wait pattern:
 
